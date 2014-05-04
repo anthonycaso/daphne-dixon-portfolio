@@ -1,0 +1,68 @@
+/**
+* ==========================================================================
+styles.css -- Global styles for the MyRWD project
+* ========================================================================== 
+*
+* Created April 2, 2014
+* 
+* Authoredd by Anthony Caso
+*
+*/
+
+/* ----- Basic styling ----- */
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  background: #c2dfff;
+}
+
+#wrap {
+float: left;
+  width: 800px;
+  margin: 0 auto;
+  background:#c2dfff;
+}
+
+#row {
+  float:left;
+  width: 100%;
+  background: white;
+}
+#main {
+  width:70%;
+  background: white;
+  box-sizing: border-box;
+}
+
+#nav{
+  align: right;
+}
+
+#sidebar {
+box-sizing: border-box;
+  float: right;
+  width: 30%;
+  background: #c2dfff;
+  
+}
+
+#footer {
+  clear: both;
+  background: green;
+  width: 100%;
+}
+
+.Share Buttons CSSXHTML
+
+ 
+#share-buttons img {
+
+
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
